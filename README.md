@@ -1,7 +1,7 @@
 # Semantic-Segmentation-in-Satellite-Imagery
 
 
-In this project, Using libraries from Keras API and TensorFlow, the training of deep learning model with U-Net architecture, which can predict the land parts with nearly 85% accuracy was accomplished.
+In this project, Using libraries from Keras API and TensorFlow, the training of deep learning model with U-Net architecture, which can predict the division of land parts with nearly 85% accuracy was accomplished.
 
 This project was done on locally installed tensorflow without gpu support.
 
